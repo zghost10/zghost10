@@ -1,7 +1,7 @@
 # Hi there! This is Raff.
 I am __Rafael Caroso__ (He/Him), a brazilian 🇧🇷 guy who loves all the tech and coding stuff. I'm a __Full Stack Web Developer__ currently living in the State of Bahia (a northeastern brazilian state).
 
-## 🌐 Social media
+## 🌐 Social Media
 > [![IG](https://skills.thijs.gg/icons?i=instagram&theme=dark)](https://instagram.com/rafaelcaroso)
 [![LKD](https://skills.thijs.gg/icons?i=linkedin&theme=dark)](https://linkedin.com/in/rafael-karoso)
 
