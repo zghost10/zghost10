@@ -12,4 +12,9 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=zghost10&style=flat-square&color=blue" alt="Views counter"/>
+  <div>
+    <i class="fa-solid fa-house"></i>
+  </div>
 </div>
+
+<script src="https://kit.fontawesome.com/1d52c626c2.js" crossorigin="anonymous"></script>
