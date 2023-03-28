@@ -17,6 +17,7 @@ My name is __Rafael Caroso__ (He/Him) and I am a brazilian 🇧🇷 guy who love
 > [![HTML 5](https://skills.thijs.gg/icons?i=html&theme=dark)](https://rafaelcaroso.com/)
 > [![CSS 3](https://skills.thijs.gg/icons?i=css&theme=dark)](https://rafaelcaroso.com/)
 ### Back-end
+> [![Next.JS](https://skills.thijs.gg/icons?i=next&theme=dark)](https://rafaelcaroso.com/)
 > [![PHP 8](https://skills.thijs.gg/icons?i=php&theme=dark)](https://rafaelcaroso.com/)
 > [![Laravel 9](https://skills.thijs.gg/icons?i=laravel&theme=dark)](https://rafaelcaroso.com/)
 > [![MySQL](https://skills.thijs.gg/icons?i=mysql&theme=dark)](https://rafaelcaroso.com/)
